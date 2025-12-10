@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom colors for Budget Tracker -->
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+
+    <!-- Additional colors for improved UI -->
+    <color name="income_green">#4CAF50</color>
+    <color name="income_green_light">#81C784</color>
+    <color name="expense_red">#F44336</color>
+    <color name="expense_red_light">#E57373</color>
+
+    <color name="primary_gradient_start">#6200EE</color>
+    <color name="primary_gradient_end">#9C27B0</color>
+
+    <color name="background_gray">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+</resources>
