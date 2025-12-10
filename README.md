@@ -31,11 +31,9 @@ A modern Android application for personal finance management built with Kotlin, 
 3. Allow installation from unknown sources if prompted
 4. Install and start tracking your finances!
 
-## 📸 Screenshots
-*(Add your screenshots here)*
-
 ## 👨‍💻 Author
 **Jony Mar Barrete**
+- Email: jonymarbarrete@gmail.com
 - GitHub: [@jonymarbravo](https://github.com/jonymarbravo)
 - Location: Davao City, Philippines
 
