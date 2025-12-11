@@ -33,7 +33,7 @@ A modern Android application for personal finance management built with Kotlin, 
 
 ## 👨‍💻 Author
 **Jony Mar Barrete**
-- Email: jonymarbarrete@gmail.com
+- Email: jonymarbarrete88@gmail.com
 - GitHub: [@jonymarbravo](https://github.com/jonymarbravo)
 - Location: Davao City, Philippines
 
